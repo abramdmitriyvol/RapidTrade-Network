@@ -1,0 +1,14 @@
+node_modules
+coverage
+hardhat-dependency-compiler
+coverage.json
+build
+artifacts
+cache
+artifacts-zk
+cache-zk
+.env
+.idea
+solcInputs
+*.log
+deployments/hardhat
